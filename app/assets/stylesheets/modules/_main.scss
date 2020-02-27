@@ -13,8 +13,6 @@
       padding-bottom: 50px;
       text-align: center;
       font-size: 18px;
-    
-
     }
     p.new-post{
     border: solid 1px #FF00FF;/*線色*/
@@ -26,8 +24,7 @@
     color: #FF00FF;/*文字色*/
     text-decoration: none;
     
-    }
-
+      }
     }
   }
   .main_post{
@@ -61,6 +58,7 @@
       }
     }
       &_right{
+        background-color: white;
 
       }
   }
